@@ -3,3 +3,5 @@
 OV-PARTS: Towards Open-Vocabulary Part Segmentation
 https://proceedings.neurips.cc/paper_files/paper/2023/file/dde53059fdb0f45e1e9ad9c66997d662-Paper-Datasets_and_Benchmarks.pdf
 
+# weakly supervised referring image segmentation
+https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Weakly_Supervised_Referring_Image_Segmentation_with_Intra-Chunk_and_Inter-Chunk_Consistency_ICCV_2023_paper.pdf
