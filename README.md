@@ -9,3 +9,8 @@ https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Weakly_Supervised_Refe
 # PEFT RIS 
 Enhancing Fine-grained Multi-modal Alignment via Adapters: A Parameter-Efficient Training Framework for Referring Image Segmentation
 https://openreview.net/pdf?id=bp8xXLi2Mp
+
+# Multi-Modal Adpater
+MMA: Multi-Modal Adapter for Vision-Language Models
+https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.pdf
+可参考折线图
