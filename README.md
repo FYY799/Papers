@@ -14,3 +14,7 @@ https://openreview.net/pdf?id=bp8xXLi2Mp
 MMA: Multi-Modal Adapter for Vision-Language Models
 https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.pdf
 可参考折线图
+
+# Decoder 
+SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation
+https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_SED_A_Simple_Encoder-Decoder_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2024_paper.pdf
