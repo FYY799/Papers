@@ -18,3 +18,6 @@ https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_MMA_Multi-Modal_Adapt
 # Decoder 
 SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation
 https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_SED_A_Simple_Encoder-Decoder_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2024_paper.pdf
+
+Text Promptable Surgical Instrument Segmentation with Vision-Language Models
+https://proceedings.neurips.cc/paper_files/paper/2023/file/5af741d487c5f0b08bfe56e11d1883e4-Paper-Conference.pdf
