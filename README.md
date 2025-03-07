@@ -21,3 +21,7 @@ https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_SED_A_Simple_Encoder-D
 
 Text Promptable Surgical Instrument Segmentation with Vision-Language Models
 https://proceedings.neurips.cc/paper_files/paper/2023/file/5af741d487c5f0b08bfe56e11d1883e4-Paper-Conference.pdf
+
+# Pseudo Mask Generation
+GuidedMix-Net: Learning to Improve Pseudo Masks Using Labeled images as Reference
+https://arxiv.org/pdf/2106.15064
