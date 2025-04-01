@@ -35,3 +35,6 @@ https://arxiv.org/pdf/2403.14608
 
 # CLIP Preliminary
 https://proceedings.neurips.cc/paper_files/paper/2023/file/6ffe484a646db13891bb6435ca39d667-Paper-Conference.pdf
+
+# CLIP Zero-shot Segmentation
+https://proceedings.neurips.cc/paper_files/paper/2023/file/661caac7729aa7d8c6b8ac0d39ccbc6a-Paper-Conference.pdf
