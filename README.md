@@ -38,3 +38,7 @@ https://proceedings.neurips.cc/paper_files/paper/2023/file/6ffe484a646db13891bb6
 
 # CLIP Zero-shot Segmentation
 https://proceedings.neurips.cc/paper_files/paper/2023/file/661caac7729aa7d8c6b8ac0d39ccbc6a-Paper-Conference.pdf
+
+
+# few-shot segmentation
+https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_PANet_Few-Shot_Image_Semantic_Segmentation_With_Prototype_Alignment_ICCV_2019_paper.pdf
