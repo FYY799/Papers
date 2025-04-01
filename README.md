@@ -32,3 +32,6 @@ https://pdf.sciencedirectassets.com/271597/1-s2.0-S0925231224X00132/1-s2.0-S0925
 
 # PEFT Review
 https://arxiv.org/pdf/2403.14608
+
+# CLIP Preliminary
+https://proceedings.neurips.cc/paper_files/paper/2023/file/6ffe484a646db13891bb6435ca39d667-Paper-Conference.pdf
